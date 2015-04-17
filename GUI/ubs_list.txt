@@ -1,0 +1,7 @@
+Reference  Device           Description
+---------- ---------------- ---------------------------------------------
+A96LX3VF   /dev/ttyUSB0     FTDI FT232R USB UART
+M49WC0LY   /dev/ttyUSB0     Moteiv tmote sky
+M4MVASRF   /dev/ttyUSB1     Moteiv Telos (Rev A 2004-04-27)
+XBTNSIY0   /dev/ttyUSB0     XBOW Crossbow Telos Rev.B
+XBTNSIY0   /dev/ttyUSB0     XBOW Crossbow Telos Rev.B

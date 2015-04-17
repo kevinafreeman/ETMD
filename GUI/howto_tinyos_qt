@@ -1,0 +1,17 @@
+sudo chown username:group directory
+sudo chown pao:root /opt
+---------------------------------
+sudo gpasswd -a pao dialout
+
+qt install in ubuntu:
+download qt
+https://www.qt.io/download-open-source/#section-2
+and install
+sudo apt-get install mesa-common-dev
+sudo apt-get install libgl1-mesa-dev libglu1-mesa-dev
+
+
+cd SOME_PATH && run_some_command && cd-
+cd /opt/tinyos-main/apps/Blink && make telosb && cd
+
+the last 'cd' command will take you back to the last pwd directory. This should work on all *nix systems.
